@@ -4,5 +4,6 @@
 ```
 $ faas-cli build
 $ faas-cli deploy
-$ echo -n <name> | faas-cli invoke hello-openfaas
+$ echo -n Håvard | faas-cli invoke hello-openfaas
+# Hello Håvard!
 ```
